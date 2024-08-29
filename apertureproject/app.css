@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(37, 37, 37);
+    display: flex;
+    justify-content: center;
+}
+
+.flex1{
+    background-color:rgb(44, 44, 44);
+    border-radius: 25px;
+    height:25vh;
+    width:80vh;
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+#v3{
+    margin: auto;
+    color:white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

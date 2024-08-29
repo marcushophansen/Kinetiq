@@ -1,0 +1,31 @@
+body{
+    color:white;
+    background-color:rgb(20, 20, 20);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1{
+    margin-top:8%;
+    margin-left:2%;
+    font-size: 30px;
+}
+
+p{
+    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+#site{
+margin-left:2%;
+}
+
+#topleft{
+    margin-left:4%;
+    margin-top:1%;
+    font-size: 20px;
+}
+
+#list{
+    font-size:15px;
+}
